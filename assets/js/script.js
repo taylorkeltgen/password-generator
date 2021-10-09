@@ -68,9 +68,9 @@ var generatePassword = function() {
 
 var passwordLength = function(){
   var length = window.prompt("How many characters do you want your password to be?  Choose a length of at least 8 characters and no more than 128 characters.");
-    console.log('Password length: ' + length);
-  var getPasswordLength = parseInt(length);
-  return getPasswordLength;
+    var getPasswordLength = parseInt(length);
+    console.log('Password length: ' + getPasswordLength);
+    return getPasswordLength;
 };
 
 // Get references to the #generate element
