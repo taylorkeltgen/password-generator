@@ -21,11 +21,12 @@
 
 
 ## Website: 
-* [Enter URL]
+* https://taylorkeltgen.github.io/password-generator/
 
 
 ## Screenshot:
-[Screen Shot]
+* [Screen Shot](https://user-images.githubusercontent.com/88693758/136676014-e8a2c042-c3b7-4cef-b623-01466ab6a38f.png)
+
 
 ## Contributions:
 ### Made by Taylor Keltgen
